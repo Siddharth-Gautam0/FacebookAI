@@ -10,7 +10,7 @@ import pandas as pd
 import random
 
 #Wit.ai ID
-client = Wit("AMSAC56N5ZCBQS7F63RAIL34SHYXGNID")
+client = Wit("Your WIT ID here")
 
 #Main window configurations
 set_main_window_size(1500, 800)
