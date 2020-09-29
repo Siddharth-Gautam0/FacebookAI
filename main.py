@@ -18,7 +18,7 @@ exercise_list = ['tiptoe walking','pullup','chinup','bicycle','pushup','tip toe 
 muscle_list = ['back','chest','abs','legs','arm','shoulder']
 
 #WitID
-client = Wit("AMSAC56N5ZCBQS7F63RAIL34SHYXGNID")
+client = Wit("Your WIT token here")
 
 #GUI Main Window
 set_main_window_size(1500, 800)
